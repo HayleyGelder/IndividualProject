@@ -1,0 +1,1 @@
+java -cp target/astar-1.jar com.hgelder.astar.App

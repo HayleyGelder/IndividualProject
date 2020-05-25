@@ -1,0 +1,5 @@
+com\hgelder\astar\App.class
+com\hgelder\astar\Board.class
+com\hgelder\astar\AI.class
+com\hgelder\astar\Node$NodeState.class
+com\hgelder\astar\Node.class
